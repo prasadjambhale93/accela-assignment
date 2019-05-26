@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "demo.db.recreate",
+  "type": "java.lang.String",
+  "description": "A description for 'demo.db.recreate'"
+}]}
